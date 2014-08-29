@@ -1,9 +1,7 @@
 Titanium-Alloy-Views
 ====================
 
-This is a sample code how to use titanium alloy Viess, Scroll view dynamically. 
-
-
+This is a sample code how to use titanium alloy Views, Scroll view dynamically. 
 
 This simple Example explains following thins,
 
